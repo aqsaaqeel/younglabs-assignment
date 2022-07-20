@@ -1,0 +1,25 @@
+.s-card-container {
+  padding: 1rem;
+  margin: 1rem;
+  width: 17rem;
+  height: 4rem;
+  border-radius: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: white;
+}
+
+.s-card-header,
+.s-card-footer {
+  font-size: 0.8rem;
+}
+.s-card-header {
+  color: grey;
+}
+.s-card-footer {
+  color: red;
+}
+.s-card-body {
+  font-weight: bold;
+}

@@ -1,0 +1,6 @@
+.hero-body {
+  padding: 2rem;
+  margin: 0 4rem;
+  display: flex;
+  justify-content: center;
+}
